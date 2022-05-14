@@ -5,7 +5,7 @@
 #include "list.h"
 #include "task.h"
 #include "cpu.h"
-
+//Shortest Job First process scheduling algorithm
 //Linked list initialization with task in each node
 Task pheadTask ={0,0,0,0};
 struct node head={&pheadTask,0};
