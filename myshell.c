@@ -1,7 +1,7 @@
 /**
  * Simple shell interface starter kit program.
  * Operating System Concepts
- * Project 1
+ * Project 1 - Creating a 'Custom' shell with new commands
  */
 #include <stdlib.h>
 #include <fcntl.h>
